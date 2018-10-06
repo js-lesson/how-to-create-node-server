@@ -1,5 +1,9 @@
 # 用Koa2编写简单的node server, 并自定义API加载器模块
 
+## 课程视频地址:
+
+`https://www.liveedu.tv/gaokun/Znryb-koa2node-server-api/`
+
 ## install
 `npm install`
 
