@@ -1,0 +1,6 @@
+{
+  "route": [
+    "get /user getList",
+    "post /user add"
+  ]
+}

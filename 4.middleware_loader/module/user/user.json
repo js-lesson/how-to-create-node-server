@@ -1,0 +1,6 @@
+{
+  "route": [
+    "get /user authorization|getList",
+    "post /user upload|add"
+  ]
+}
